@@ -1,4 +1,4 @@
-document.getElementById('button1').addEventListener('click', loadCustomer);
+document.getElementById("button1").addEventListener('click', loadCustomer);
 document.getElementById('button2').addEventListener('click', loadCustomers);
 
 function loadCustomer(e){
